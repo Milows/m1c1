@@ -2,9 +2,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
-.gridOne p {
-    color: blue;
-}
 
 .gridTwo {
     display: grid; 
