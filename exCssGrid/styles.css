@@ -36,6 +36,12 @@
     background-color: lightseagreen;
 }
 
+.gridThree > .second img {
+    width: 500px; 
+    height: 225px; 
+    object-fit: fill;
+}
+
 .gridFour {
     display: grid; 
     grid-template-rows: 1fr 1fr; 
